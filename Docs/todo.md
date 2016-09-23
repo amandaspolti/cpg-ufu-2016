@@ -1,0 +1,4 @@
+## LISTA DE AFAZERES
+
+- [ ] Intent
+- [ ] 
